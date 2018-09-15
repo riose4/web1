@@ -1,1 +1,2 @@
-Go => https://riose4.github.io/web1/mainindex.html
+Enter the Homepage 
+=> https://riose4.github.io/web1/mainindex.html
